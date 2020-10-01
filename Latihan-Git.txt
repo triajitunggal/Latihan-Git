@@ -1,0 +1,4 @@
+Latihan Git
+-Membuat Akun GIthub
+-Mengethaui Command Dasar
+-Integrasi GIT
